@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2021-01-17T00:00:00Z
+date = 2021-01-16T22:00:00Z
 excerpt = "This is a lovely little excerpt just to show you how it looks on the homepage"
 hero = "/images/brent-storm-ag13t_tqvk4-unsplash-1.jpg"
 timeToRead = 3
