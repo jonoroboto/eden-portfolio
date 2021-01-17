@@ -1,10 +1,11 @@
 +++
-authors = []
+authors = ["Eden Zhang"]
 date = 2021-01-16T00:00:00Z
 draft = true
 excerpt = "There are not many Chinese people who have the real faith in liberty "
-hero = ""
+hero = "/images/t.jpg"
 timeToRead = 2
 title = "The understanding of liberty "
 
 +++
+Broadly speaking, **liberty** is the ability to do as one pleases.[\[1\]](https://en.wikipedia.org/wiki/Liberty#cite_note-1) It is a synonym for the word [freedom](https://en.wikipedia.org/wiki/Freedom "Freedom"). In modern politics, liberty is the state of being free within society from control or oppressive restrictions imposed by authority on one's way of life, behaviour, or political views.[\[2\]](https://en.wikipedia.org/wiki/Liberty#cite_note-2)[\[3\]](https://en.wikipedia.org/wiki/Liberty#cite_note-3)[\[4\]](https://en.wikipedia.org/wiki/Liberty#cite_note-4) In philosophy, liberty involves [free will](https://en.wikipedia.org/wiki/Free_will "Free will") as contrasted with [determinism](https://en.wikipedia.org/wiki/Determinism "Determinism").[\[5\]](https://en.wikipedia.org/wiki/Liberty#cite_note-5) In [theology](https://en.wikipedia.org/wiki/Theology "Theology"), liberty is freedom from the effects of "sin, spiritual servitude, \[or\] worldly ties".[\[6\]](https://en.wikipedia.org/wiki/Liberty#cite_note-6) Sometimes liberty is differentiated from freedom by using the word "freedom" primarily, if not exclusively, to mean the ability to do as one wills and what one has the power to do; and using the word "liberty" to mean the absence of arbitrary restraints, taking into account the rights of all involved. In this sense, the exercise of liberty is subject to capability and limited by the rights of others.[\[7\]](https://en.wikipedia.org/wiki/Liberty#cite_note-mill1-7) Thus liberty entails the [responsible](https://en.wikipedia.org/wiki/Duty "Duty") use of freedom under the [rule of law](https://en.wikipedia.org/wiki/Rule_of_law "Rule of law") without depriving anyone else of their freedom. Freedom is more broad in that it represents a total lack of restraint or the unrestrained ability to fulfill one's desires. For example, a person can have the freedom to murder, but not have the liberty to murder, as the latter example deprives others of their right not to be harmed. Liberty can be taken away as a form of punishment. In many countries, people can be deprived of their liberty if they are convicted of criminal acts.
