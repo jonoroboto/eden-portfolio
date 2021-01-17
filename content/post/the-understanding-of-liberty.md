@@ -1,7 +1,6 @@
 +++
 authors = ["Eden Zhang"]
 date = 2021-01-16T00:00:00Z
-draft = true
 excerpt = "There are not many Chinese people who have the real faith in liberty "
 hero = "/images/t.jpg"
 timeToRead = 2
