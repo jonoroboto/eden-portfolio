@@ -6,7 +6,6 @@ excerpt: Creating a new website for Hopper, one of the top 4 most downloaded tra
 timeToRead: 4
 authors:
   - Dennis Brotzky
-
 ---
 
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
@@ -54,7 +53,7 @@ function SocialLinks({ fill = "#73737D" }: { fill: string }) {
 
   return (
     <>
-      {socialOptions.map(option => {
+      {socialOptions.map((option) => {
         const Icon = icons[option.name];
 
         return (
@@ -84,7 +83,7 @@ import React from "react";
 import { ThemeProvider } from "theme-ui";
 import theme from "./theme";
 
-export default props => (
+export default (props) => (
   <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
 );
 ```
@@ -181,4 +180,4 @@ Without the Gatsby lifecycle, it would be impossible to customize and modify you
 
 Gatsby is a staple within our engineering process at Narative, helping us help our clients build the products they’ve always dreamed of, and the ones they’re yet to dream up.
 
-{{< subscribe email="something@good.com" >}}
+{{< subscribe email="edenyi1129@gmail.com" >}}
