@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Yo Eden, this is the header on the homepage, check it out 👍
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg
