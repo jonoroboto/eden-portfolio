@@ -71,7 +71,7 @@ Add a similar file to your content directory and Front Matter example.
 ```yaml
 # /content/authors/firstname-lastname/_index.md
 ---
-title: Dennis Brotzky
+title: Eden Zhang
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
@@ -89,6 +89,7 @@ social:
   - title: unsplash
     url: https://unsplash.com
 ---
+
 ```
 
 #### Assigning authors to posts.
@@ -97,9 +98,10 @@ Add the name of the author to the "authors" field:
 
 ```yaml
 authors:
-  - Dennis Brotzky
+  - Eden Zhang
   - Thiago Costa
 ```
+
 ### Newsletter call to action
 
 This theme includes a shortcode for a newsletter callout form that you can add to any page.
@@ -108,7 +110,6 @@ It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each 
 ```
 {{< subscribe email="your@email.com" >}}
 ```
-
 
 ## LICENSE
 

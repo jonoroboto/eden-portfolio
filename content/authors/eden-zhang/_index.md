@@ -1,8 +1,7 @@
 ---
-title: Eden Z
+title: Eden Zhang
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Marketing & Fashion is my passion
 avatar: /images/brad-tiller.jpg
 social:
   - title: github

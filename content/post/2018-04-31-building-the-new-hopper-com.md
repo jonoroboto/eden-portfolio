@@ -5,8 +5,7 @@ hero: /images/hero-2.jpg
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
 timeToRead: 4
 authors:
-  - Dennis Brotzky
-
+  - Eden Zhang
 ---
 
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
@@ -54,7 +53,7 @@ function SocialLinks({ fill = "#73737D" }: { fill: string }) {
 
   return (
     <>
-      {socialOptions.map(option => {
+      {socialOptions.map((option) => {
         const Icon = icons[option.name];
 
         return (
@@ -84,7 +83,7 @@ import React from "react";
 import { ThemeProvider } from "theme-ui";
 import theme from "./theme";
 
-export default props => (
+export default (props) => (
   <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
 );
 ```

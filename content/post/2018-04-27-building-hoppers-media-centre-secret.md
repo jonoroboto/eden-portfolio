@@ -2,14 +2,15 @@
 title: A story of why Forestry loves Hugo
 date: 2017-04-27
 hero: "/images/hero-3.jpg"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
+excerpt:
+  Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 secret: true
 timeToRead: 8
 authors:
-- Dennis Brotzky
-
+  - Eden Zhang
 ---
+
 To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
 
 Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
@@ -122,7 +123,7 @@ function SocialLinks({ fill = "#73737D" }: { fill: string }) {
 
   return (
     <>
-      {socialOptions.map(option => {
+      {socialOptions.map((option) => {
         const Icon = icons[option.name];
 
         return (
@@ -152,7 +153,9 @@ import React from "react";
 import { ThemeProvider } from "theme-ui";
 import theme from "./theme";
 
-export default props => <ThemeProvider theme={theme}>{props.children}</ThemeProvider>;
+export default (props) => (
+  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
+);
 ```
 
 At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.

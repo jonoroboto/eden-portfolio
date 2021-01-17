@@ -6,10 +6,9 @@ excerpt: With the growing community interest in Gatsby, we hope to create more r
 timeToRead: 6
 authors:
   - Thiago Costa
-  - Dennis Brotzky
+  - Eden Zhang
   - Brad Tiller
   - Mack Mansouri
-
 ---
 
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
@@ -60,7 +59,7 @@ const icons = {
   twitter: SocialIcons.TwitterIcon,
   facebook: SocialIcons.FacebookIcon,
   instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon
+  github: SocialIcons.GithubIcon,
 };
 
 function SocialLinks({ fill = "#73737D" }: { fill: string }) {
@@ -69,7 +68,7 @@ function SocialLinks({ fill = "#73737D" }: { fill: string }) {
 
   return (
     <>
-      {socialOptions.map(option => {
+      {socialOptions.map((option) => {
         const Icon = icons[option.name];
 
         return (
@@ -98,7 +97,7 @@ const Wrapper = ({ children }) => (
     style={{
       background: "papayawhip",
       width: "100%",
-      padding: "2rem"
+      padding: "2rem",
     }}
   >
     {children}
