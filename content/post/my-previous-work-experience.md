@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-11-30T00:00:00Z
-draft = true
 excerpt = "Find my CV, my previous work experience and other items inside of this post"
 hero = "/images/green-chameleon-s9cc2skysjm-unsplash-1.jpg"
 timeToRead = 5
