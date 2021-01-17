@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2021-11-30T00:00:00Z
+date = 2021-01-17T00:00:00Z
 excerpt = "Find my CV, my previous work experience and other items inside of this post"
 hero = "/images/eden-cv.png"
 timeToRead = 5
