@@ -2,7 +2,7 @@
 authors = []
 date = 2021-11-30T00:00:00Z
 excerpt = "Find my CV, my previous work experience and other items inside of this post"
-hero = "/images/website-image.png"
+hero = "/images/eden-cv.png"
 timeToRead = 5
 title = "My Previous work experience"
 
